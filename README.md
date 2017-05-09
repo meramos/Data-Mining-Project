@@ -1,6 +1,8 @@
 # Data-Mining-Project
 UKY Data Mining project
 
+Developed in 2014
+
 To run program in Windows' cmd: C:\Python33\python.exe program.py
 other python libraries as reference: http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
